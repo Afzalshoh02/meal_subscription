@@ -22,9 +22,8 @@ Laravel Orders Management
 git clone https://github.com/Afzalshoh02/meal_subscription.git
 через SSH
 git clone git@github.com:Afzalshoh02/meal_subscription.git
-cd YOUR_REPOSITORY
+cd meal_subscription
 
-(замени YOUR_USERNAME/YOUR_REPOSITORY на реальный URL репозитория)
 
 2️⃣ Установка зависимостей
 
